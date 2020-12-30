@@ -32,6 +32,9 @@
 <a href="https://medium.com/@ionutjula">
   <img align="left" alt="Ionuț Jula | Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
+<a href="https://ko-fi.com/ionutjula">
+  <img align="left" alt="Ionuț Jula | ko-fi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg" />
+</a>
 <a href="https://github.com/fdd">
   <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
