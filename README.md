@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
   * ionutjula@gmail.com
-  * https://linkedin.com/ionutjula
+  * https://linkedin.com/in/ionutjula
   * https://facebook.com/ionutjula
   * https://instagram.com/ionutjula
 
