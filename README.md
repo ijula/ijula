@@ -8,6 +8,9 @@
 <a href="https://facebook.com/ionutjula">
   <img align="left" alt="Ionuț Jula | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://instagram.com/ionutjula">
+  <img align="left" alt="Ionuț Jula | Instagram" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/instagram.svg" />
+</a>
 <a href="https://youtube.com/ionutjula">
   <img align="left" alt="Ionuț Jula | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
