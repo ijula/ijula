@@ -20,7 +20,15 @@
 <a href="https://imgur.com/user/fddfoo">
   <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
 </a>
-
+<a href="https://github.com/fdd">
+  <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://www.patreon.com/ionutjula">
+  <img align="left" alt="Ionuț Jula | Patreon" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" />
+</a>
+<a href="https://www.twitch.tv/ionutjula">
+  <img align="left" alt="Ionuț Jula | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+</a>
 
 <br>
 
@@ -38,7 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 📫 How to reach me: ionut.jula@emerson.com, ionutjula@gmail.com.
 
 <!-- -- - eof. - -- -->
