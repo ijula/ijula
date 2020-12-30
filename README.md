@@ -17,6 +17,10 @@
 <a href="https://www.reddit.com/user/fdd">
   <img align="left" alt="Ionuț Jula | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+<a href="https://imgur.com/user/fddfoo">
+  <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
+</a>
+
 
 <br>
 
@@ -37,9 +41,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
   * ionutjula@gmail.com
-  * https://linkedin.com/in/ionutjula
-  * https://facebook.com/ionutjula
-  * https://instagram.com/ionutjula
-
 
 <!-- -- - eof. - -- -->
