@@ -20,7 +20,9 @@
 <a href="https://imgur.com/user/fddfoo">
   <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
 </a>
-
+<a href="https://github.com/fdd">
+  <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 
 <br>
 
