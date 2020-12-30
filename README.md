@@ -39,6 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: ionut.jula@emerson.com, ionutjula@gmail.com.
-
 <!-- -- - eof. - -- -->
