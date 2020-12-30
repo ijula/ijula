@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <a href="https://altair.pw">
-  <img align="left" alt="altair.pw" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/favicon-altair.pw.ico" />
+  <img align="left" alt="altair.pw" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/favicon-altair.pw.ico" />
 </a>
 <a href="https://linkedin.com/in/ionutjula/">
   <img align="left" alt="Ionuț Jula | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -51,7 +51,7 @@
 
 <!--
 <a href="https://PLACEHOLDER/">
-  <img align="left" alt="Ionuț Jula | PLACEHOLDER" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/PLACEHOLDER.svg" />
+  <img align="left" alt="Ionuț Jula | PLACEHOLDER" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/PLACEHOLDER.svg" />
 </a>
 -->
 
