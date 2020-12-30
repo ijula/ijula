@@ -26,9 +26,13 @@
 <a href="https://www.twitch.tv/ionutjula">
   <img align="left" alt="Ionuț Jula | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
+<a href="https://steamcommunity.com/id/fdd_">
+  <img align="left" alt="Ionuț Jula | Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+</a>
 <a href="https://github.com/fdd">
   <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
+
 
 <br>
 
