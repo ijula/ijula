@@ -8,6 +8,9 @@
 <a href="https://facebook.com/ionutjula">
   <img align="left" alt="Ionuț Jula | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://instagram.com/ionutjula">
+  <img align="left" alt="Ionuț Jula | Instagram" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/instagram.svg" />
+</a>
 <a href="https://youtube.com/ionutjula">
   <img align="left" alt="Ionuț Jula | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
@@ -25,6 +28,9 @@
 </a>
 <a href="https://www.twitch.tv/ionutjula">
   <img align="left" alt="Ionuț Jula | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+</a>
+<a href="https://discord.com/users/fdd#9515">
+  <img align="left" alt="Ionuț Jula | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://steamcommunity.com/id/fdd_">
   <img align="left" alt="Ionuț Jula | Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
