@@ -51,13 +51,13 @@
   <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-
 <!--
 <a href="https://PLACEHOLDER/">
   <img align="left" alt="Ionuț Jula | PLACEHOLDER" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/PLACEHOLDER.svg" />
 </a>
 -->
 
+[![GitHub ijula](https://img.shields.io/github/followers/ijula?label=follow&style=social)](https://github.com/ijula)
 
 <br>
 
