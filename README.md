@@ -57,9 +57,9 @@
 </a>
 -->
 
-<br>
-
 [![GitHub ijula](https://img.shields.io/github/followers/ijula?label=follow&style=social)](https://github.com/ijula)
+
+<br>
 
 <!--
 **ijula/ijula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
