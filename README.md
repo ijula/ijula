@@ -58,7 +58,9 @@
 </a>
 -->
 
+<!--
 [![GitHub ijula](https://img.shields.io/github/followers/ijula?label=follow&style=social)](https://github.com/ijula)
+-->
 
 <br>
 
