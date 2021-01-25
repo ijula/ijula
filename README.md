@@ -30,28 +30,28 @@
   <img align="left" alt="Ionuț Jula | Reddit" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/reddit.svg" />
 </a>
 <a href="https://imgur.com/user/fddfoo">
-  <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
+  <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/imgur.svg" />
 </a>
 <a href="https://www.patreon.com/ionutjula">
-  <img align="left" alt="Ionuț Jula | Patreon" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" />
+  <img align="left" alt="Ionuț Jula | Patreon" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/patreon.svg" />
 </a>
 <a href="https://www.twitch.tv/ionutjula">
-  <img align="left" alt="Ionuț Jula | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Ionuț Jula | Twitch" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/twitch.svg" />
 </a>
 <a href="https://discord.com/users/fdd#9515">
-  <img align="left" alt="Ionuț Jula | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Ionuț Jula | Discord" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/discord.svg" />
 </a>
 <a href="https://steamcommunity.com/id/fdd_">
-  <img align="left" alt="Ionuț Jula | Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+  <img align="left" alt="Ionuț Jula | Steam" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/steam.svg" />
 </a>
 <a href="https://medium.com/@ionutjula">
-  <img align="left" alt="Ionuț Jula | Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+  <img align="left" alt="Ionuț Jula | Medium" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/medium.svg" />
 </a>
 <a href="https://ko-fi.com/ionutjula">
-  <img align="left" alt="Ionuț Jula | ko-fi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg" />
+  <img align="left" alt="Ionuț Jula | ko-fi" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/ko-fi.svg" />
 </a>
 <a href="https://github.com/fdd">
-  <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/github.svg" />
 </a>
 
 <!--
