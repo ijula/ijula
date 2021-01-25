@@ -7,25 +7,25 @@
   <img align="left" alt="Ionuț Jula | StackOverflow" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/stackoverflow.svg" />
 </a>
 <a href="https://linkedin.com/in/ionutjula/">
-  <img align="left" alt="Ionuț Jula | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ionuț Jula | LinkedIn" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/ionutjula">
-  <img align="left" alt="Ionuț Jula | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ionuț Jula | Twitter" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/twitter.svg" />
 </a>
 <a href="https://facebook.com/ionutjula">
-  <img align="left" alt="Ionuț Jula | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Ionuț Jula | Facebook" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/facebook.svg" />
 </a>
 <a href="https://instagram.com/ionutjula">
   <img align="left" alt="Ionuț Jula | Instagram" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/instagram.svg" />
 </a>
 <a href="https://youtube.com/ionutjula">
-  <img align="left" alt="Ionuț Jula | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Ionuț Jula | YouTube" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/youtube.svg" />
 </a>
 <a href="https://open.spotify.com/user/qwum1i84p9m5eamn5ynpafl5k">
-  <img align="left" alt="Ionuț Jula | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ionuț Jula | Spotify" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/fdd">
-  <img align="left" alt="Ionuț Jula | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Ionuț Jula | Reddit" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/reddit.svg" />
 </a>
 <a href="https://imgur.com/user/fddfoo">
   <img align="left" alt="Ionuț Jula | Imgur" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
