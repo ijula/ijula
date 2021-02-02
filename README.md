@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 
 
-
 <a href="https://altair.pw">
   <img align="left" alt="altair.pw" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/favicon-altair.pw.ico" />
 </a>
