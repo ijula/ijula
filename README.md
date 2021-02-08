@@ -51,6 +51,10 @@
 <a href="https://github.com/fdd">
   <img align="left" alt="Ionuț Jula | GitHub" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/github.svg" />
 </a>
+</a>
+<a href="https://vimeo.com/ionutjula">
+  <img align="left" alt="Ionuț Jula | Vimeo" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/vimeo.svg" />
+</a>
 
 <!--
 <a href="https://PLACEHOLDER/">
