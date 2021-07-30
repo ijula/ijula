@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![image](https://github.com/ijula/ijula/blob/master/assets/PSX_20200223_122911.jpg)
+![image](https://github.com/ijula/ijula/blob/master/assets/photos/rio-tunel-1.jpg)
 
 <a href="https://altair.pw">
   <img align="left" alt="altair.pw" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/favicon-altair.pw.ico" />
