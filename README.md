@@ -26,6 +26,9 @@
 <a href="https://open.spotify.com/user/qwum1i84p9m5eamn5ynpafl5k">
   <img align="left" alt="Ionuț Jula | Spotify" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/spotify.svg" />
 </a>
+<a href="https://app.pluralsight.com/profile/fdd">
+  <img align="left" alt="Ionuț Jula | Pluralsight" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/pluralsight.svg" />
+</a>
 <a href="https://www.reddit.com/user/fdd">
   <img align="left" alt="Ionuț Jula | Reddit" width="22px" src="https://raw.githubusercontent.com/ijula/ijula/master/assets/reddit.svg" />
 </a>
