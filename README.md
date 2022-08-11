@@ -71,7 +71,9 @@
 [![GitHub ijula](https://img.shields.io/github/followers/ijula?label=follow&style=social)](https://github.com/ijula)
 -->
 
+<!--
 ![CI](https://github.com/ijula/ijula/workflows/CI/badge.svg)
+-->
 
 <br>
 
