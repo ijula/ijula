@@ -75,8 +75,6 @@
 ![CI](https://github.com/ijula/ijula/workflows/CI/badge.svg)
 -->
 
-<br>
-
 <!--
 **ijula/ijula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
